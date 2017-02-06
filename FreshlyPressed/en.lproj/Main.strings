@@ -1,0 +1,15 @@
+
+/* Class = "UIViewController"; title = "Main"; ObjectID = "AT6-qn-cA8"; */
+"AT6-qn-cA8.title" = "Main";
+
+/* Class = "UIViewController"; title = "Detail"; ObjectID = "Ah7-4n-0Wa"; */
+"Ah7-4n-0Wa.title" = "Detail";
+
+/* Class = "UILabel"; text = "DateLabel"; ObjectID = "LtO-wu-C7x"; */
+"LtO-wu-C7x.text" = "DateLabel";
+
+/* Class = "UILabel"; text = "TitleLabel"; ObjectID = "krD-9D-jv3"; */
+"krD-9D-jv3.text" = "TitleLabel";
+
+/* Class = "UINavigationItem"; title = "Freshly Pressed"; ObjectID = "tQt-TN-PWz"; */
+"tQt-TN-PWz.title" = "Freshly Pressed";

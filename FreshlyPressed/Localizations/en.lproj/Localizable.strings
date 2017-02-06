@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  FreshlyPressed
+
+  Created by Duarte Lopes on 30/11/2016.
+  Copyright © 2016 DuarteLopes. All rights reserved.
+*/
+
+"DateComponentStringFormat" = "about %%d %@%@ ago";
+"Year" = "year";
+"Month" = "month";
+"Day" = "day";
+"Hour" = "hour";
+"Minute" = "minute";
+"JustNow" = "Just now";
+"PluralCharacter" = "s";
+"NoTitle" = "No Title";
+"Loading" = "Loading...";
+"ErrorOccurred" = "An error has occurred";
+"OK" = "OK";
